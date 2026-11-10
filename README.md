@@ -74,5 +74,3 @@ My work spans predictive modelling, statistical methods, and software applicatio
 </p>
 
 <p align="center"><img src="./divider-5-jellyfish.svg" width="720" /></p>
-
-<br>
